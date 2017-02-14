@@ -1,0 +1,36 @@
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 0 direction tri: 139
+use tri 139 to set direction 2.
+SDiff Setting directional dcst:
+Direction: 2 dcst: 0
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 0 direction tri: 141
+use tri 141 to set direction 1.
+SDiff Setting directional dcst:
+Direction: 1 dcst: 0
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 0 direction tri: 142
+use tri 142 to set direction 0.
+SDiff Setting directional dcst:
+Direction: 0 dcst: 0
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-11 direction tri: 139
+use tri 139 to set direction 2.
+SDiff Setting directional dcst:
+Direction: 2 dcst: 2e-11
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-11 direction tri: 141
+use tri 141 to set direction 1.
+SDiff Setting directional dcst:
+Direction: 1 dcst: 2e-11
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-11 direction tri: 142
+use tri 142 to set direction 0.
+SDiff Setting directional dcst:
+Direction: 0 dcst: 2e-11
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-10 direction tri: 4294967295
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-10 direction tri: 4294967295
+Name: setTriDiffD, Parameters: 
+tidx: 130 didx: 0 dk: 2e-10 direction tri: 4294967295
